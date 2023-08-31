@@ -27,7 +27,7 @@ NOTE: This is a windows application using visual studio in order to run it on a 
  The screenshot shows the form to fill out to complete the calculation
 
 Calculation
-![Preview](https://drive.google.com/uc?id=1U56ScOsjnNYx9c-Q5-3rhSopEURprsN6)
+
 ![Preview](https://drive.google.com/uc?id=1UPukmfHwHCvI2OJicL9ClwAwKvaKbKTP)
 
 
